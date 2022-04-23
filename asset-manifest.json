@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GMS-React-Website/static/css/main.d0a1a84a.chunk.css",
+    "main.js": "/GMS-React-Website/static/js/main.30aab234.chunk.js",
+    "main.js.map": "/GMS-React-Website/static/js/main.30aab234.chunk.js.map",
+    "runtime-main.js": "/GMS-React-Website/static/js/runtime-main.f4785cdf.js",
+    "runtime-main.js.map": "/GMS-React-Website/static/js/runtime-main.f4785cdf.js.map",
+    "static/js/2.1623c0db.chunk.js": "/GMS-React-Website/static/js/2.1623c0db.chunk.js",
+    "static/js/2.1623c0db.chunk.js.map": "/GMS-React-Website/static/js/2.1623c0db.chunk.js.map",
+    "index.html": "/GMS-React-Website/index.html",
+    "static/css/main.d0a1a84a.chunk.css.map": "/GMS-React-Website/static/css/main.d0a1a84a.chunk.css.map",
+    "static/js/2.1623c0db.chunk.js.LICENSE.txt": "/GMS-React-Website/static/js/2.1623c0db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4785cdf.js",
+    "static/js/2.1623c0db.chunk.js",
+    "static/css/main.d0a1a84a.chunk.css",
+    "static/js/main.30aab234.chunk.js"
+  ]
+}
